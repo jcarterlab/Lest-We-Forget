@@ -6,7 +6,7 @@ This project analyses the number of New York Times articles referencing Ukraine 
 
 The report can be found [here.](https://github.com/jcarterlab/Lest-We-Forget/blob/main/R/Lest-We-Forget.md)
 
-The code can be found [here.]([Lest We Forget.Rmd](R/Lest We Forget.Rmd))
+The code can be found [here.](https://github.com/jcarterlab/Lest-We-Forget/blob/main/R/get_nyt_hits.R)
 
 <br/>
 
